@@ -1,0 +1,93 @@
+body{
+background-color: rgb(74, 104, 45);
+
+}.container{
+
+    position: relative;
+    background-color: rgb(177, 118, 42);
+    width: 600px;
+    height: 550px;
+    left: 500px;
+    margin-top: 90px;
+}
+.car{
+    width: 400px;
+    height: 190px;
+    
+}
+.control{
+    margin-left: px;
+    width: 400px;
+    height: 290px;
+    background-color: rgb(177, 118, 42);;
+}
+.b1{
+    margin-left: 1px;
+    position: absolute;
+    height: 15px;
+    width: 1%;
+    color: rgb(26, 20, 20);
+    font-size: large;
+    font-style: ;
+    border-radius: 32px;
+
+    border: 1px solid white;
+}
+.b2{
+    margin-left: 20px;
+    position: absolute;
+    height: 15px;
+    width: 1%;
+    color: rgb(26, 20, 20);
+    font-size: large;
+    border-radius: 32px;
+
+    border: 1px solid green;
+}
+.b3{
+    margin-left: 40px;
+    position: absolute;
+    height: 15px;
+    width: 1%;
+    color: rgb(26, 20, 20);
+    font-size: large;
+    border-radius: 32px;
+
+    border: 1px solid black;
+}
+.car1{
+    background-color: aquamarine;
+    margin-top: 20px;
+    width: 40px;
+    color: red;
+    text-align: center;
+    border-radius: 7px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+.carname{
+    top: 300px;
+    position: absolute;
+    background-color: antiquewhite;
+    left: 10px;
+    font-size: 25px;
+     font-style:italic;
+     font-size: large;
+   font-family: Arial, Helvetica, sans-serif;
+    color:black
+    
+    
+}
+.buttons{
+    top: 480px;
+    position: absolute;
+    left: 10px;
+}
+.logos{
+    top: 280px;
+    position: absolute;
+    left: 10px;
+    font-family: sans-serif;
+    color:rgb(22, 22, 22)
+}
